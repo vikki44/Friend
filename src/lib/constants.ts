@@ -1,4 +1,4 @@
-export const PASSWORD = 'oursecret'
+export const PASSWORD = 'friendsforever'
 
 export const letterLines: string[] = [
   'Happy Best Friend Day🐧.',
