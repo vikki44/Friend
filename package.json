@@ -2,6 +2,7 @@
   "name": "webpage3",
   "version": "0.1.0",
   "private": true,
+  "main": "package.json",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
