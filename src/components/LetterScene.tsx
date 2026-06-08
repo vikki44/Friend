@@ -69,7 +69,7 @@ export default function LetterScene() {
 
       <div className="relative z-10 flex w-full flex-col items-center gap-8 text-center">
         <div className="space-y-3">
-          <p className="text-sm uppercase tracking-[0.28em] text-slate-400">A quiet invitation</p>
+          <p className="text-sm uppercase tracking-[0.28em] text-slate-400">Hello Cutiee Nubbuu</p>
           <h1 className="text-4xl font-semibold tracking-[-0.04em] text-white sm:text-5xl">
             A letter written for you.
           </h1>
@@ -99,7 +99,7 @@ export default function LetterScene() {
               </div>
               <div className="space-y-3 text-center">
                 <p className="text-sm uppercase tracking-[0.28em] text-slate-300">Tap to open</p>
-                <h2 className="text-3xl font-semibold text-white sm:text-4xl">The letter awaits</h2>
+                <h2 className="text-3xl font-semibold text-white sm:text-4xl">My Small Letter For You</h2>
 
               </div>
             </div>
